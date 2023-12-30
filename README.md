@@ -1,4 +1,3 @@
-# CyberSecurityBaseProject1
 # Cyber Security Base 2023 - Project I
 ## Introduction
 The task for this project was to build a web application with at least five different security flaws from the [OWASP top ten list](https://owasp.org/www-project-top-ten/), including CSRF. For my project, I specifically used the 2021 version of this list.  
